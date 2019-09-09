@@ -1,7 +1,6 @@
 # Blog Stage 2019 - A2mi
 
-> Voici quelques photos du blog
-> lien : https://www.gd-blog.site
+> Voici quelques photos du blog ** https://www.gd-blog.site **
 
 
 
