@@ -3,5 +3,5 @@
 > Voici quelques photos du blog
 
 ```
-![Accueil Blog](/screen/accueil.png)
+![Accueil Blog](./screen/accueil.png)
 ```
