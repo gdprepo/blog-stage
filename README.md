@@ -2,6 +2,6 @@
 
 > Voici quelques photos du blog
 
-```
+
 ![picture](/screen/accueil.png)
-```
+
